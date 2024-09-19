@@ -1,0 +1,15 @@
+---
+title: "Cheatsheet"
+output: html_document
+date: "2024-09-19"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# [***Header***]{.underline}{.tabset}
+
+## section 1 {.tabset}
+
+## section 2 
